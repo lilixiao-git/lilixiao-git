@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExOG9uZ2t3ZnowbGtpZmNmanhkdTFzb3g4cXI2cHdpYTI5Z28yZWZoMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lXHwJv89PvdN200Anr/giphy.gif" alt="Welcome GIF" width="100%" />
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExOG9uZ2t3ZnowbGtpZmNmanhkdTFzb3g4cXI2cHdpYTI5Z28yZWZoMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lXHwJv89PvdN200Anr/giphy.gif" alt="Welcome GIF" width="50%" />
 </p>
 
 <h1 align="center">Hi there, I'm Lili Xiao 👋</h1>
@@ -15,10 +15,9 @@ Welcome to my GitHub! I'm a frontend developer with a solid background in graphi
 ## 🌟 About Me
 
 - 📍 Based in Greater London, UK
-- 💻 Specializing in Frontend Development with a design-focused approach
+- 💻 Specialising in Frontend Development with a design-focused approach
 - 🌱 Currently refining my skills in **React** and **Ruby on Rails**
 - 🎨 Passionate about bridging the gap between design and development
-- 🌍 Fun fact: I transitioned to tech after traveling through Central & South America!
 
 ---
 
