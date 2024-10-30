@@ -2,7 +2,7 @@
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExOG9uZ2t3ZnowbGtpZmNmanhkdTFzb3g4cXI2cHdpYTI5Z28yZWZoMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lXHwJv89PvdN200Anr/giphy.gif" alt="Welcome GIF" width="50%" />
 </p>
 
-<h1 align="center">Hi there, I'm Lili Xiao 👋</h1>
+<h1 align="center">Hi there, I'm Lili 👋</h1>
 
 ### Frontend Developer | Graphic Designer | Digital Marketer
 
