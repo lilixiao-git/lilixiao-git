@@ -24,7 +24,7 @@ Welcome to my GitHub! I'm a frontend developer with a solid background in graphi
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,rails,ruby,github,figma,photoshop&theme=light" />
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,rails,ruby,github,figma,photoshop,illustrator,figma&theme=light" />
 </p>
 
 ---
