@@ -24,7 +24,7 @@ Welcome to my GitHub! I'm a frontend developer with a solid background in graphi
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,rails,ruby,github,figma,photoshop&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,rails,ruby,github,figma,photoshop&theme=light" />
 </p>
 
 ---
@@ -32,9 +32,10 @@ Welcome to my GitHub! I'm a frontend developer with a solid background in graphi
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lilixiao-git&show_icons=true&theme=dark" alt="Lili's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lilixiao-git&layout=compact&theme=dark" alt="Most Used Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=lilixiao-git&show_icons=true&theme=default" alt="Lili's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lilixiao-git&layout=compact&theme=default" alt="Most Used Languages" />
 </p>
+
 
 ---
 
@@ -65,10 +66,5 @@ A full-stack pet adoption app built with Ruby on Rails. Spearheaded frontend dev
 </div>
 
 ---
-
-### Fun Extras
-
-- ![Profile Streak](https://github-readme-streak-stats.herokuapp.com/?user=lilixiao-git&theme=dark)
-- [![Programming Jokes](https://readme-jokes.vercel.app/api?bgColor=000&textColor=fff)](https://github.com/ABSphreak/readme-jokes)
 
 Thanks for stopping by! 😊
